@@ -1,2 +1,4 @@
 # ktcloud_genai
-ktcloud tech up 생성형 ai 과정
+## 학습기간
+2025-09-23 ~ 2026-04-22
+
