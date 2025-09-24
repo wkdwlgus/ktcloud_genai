@@ -1,0 +1,1 @@
+print('git clone, git add, git commit -m 테스트입니다.')
